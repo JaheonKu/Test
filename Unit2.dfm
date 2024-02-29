@@ -27,4 +27,12 @@ object Form17: TForm17
     Caption = 'Button2'
     TabOrder = 1
   end
+  object Edit1: TEdit
+    Left = 240
+    Top = 32
+    Width = 121
+    Height = 23
+    TabOrder = 2
+    Text = 'Edit1'
+  end
 end
