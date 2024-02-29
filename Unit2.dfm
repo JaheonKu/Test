@@ -16,7 +16,7 @@ object Form17: TForm17
     Top = 32
     Width = 75
     Height = 25
-    Caption = 'Button1'
+    Caption = #48260#53948'1'
     TabOrder = 0
   end
   object Button2: TButton
